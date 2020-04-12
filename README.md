@@ -1,6 +1,7 @@
-# libvrb-0.5.1 by Philip D. Howard
+# secoli-libvrb
 
-This library is needed to build and use [secoli-SCEd](https://github.com/reale/secoli-SCEd).
+This repository contains the library `libvrb-0.5.1` by Philip D. Howard, 
+which is needed to build and use [secoli-SCEd](https://github.com/reale/secoli-SCEd).
 
 ## Description
 
